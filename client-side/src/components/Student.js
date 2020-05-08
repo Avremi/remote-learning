@@ -10,6 +10,7 @@ const student = (props) => {
             </div>
     )
 
+    
 
 };
 
